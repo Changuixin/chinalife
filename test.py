@@ -1,0 +1,8 @@
+print('\033[1;31;40m')
+print('*' * 50)
+print('*HOST:\t', 2002)
+print('*URI:\t', 'http://127.0.0.1')
+print('*ARGS:\t', 111)
+print('*TIME:\t', '22:28')
+print('*' * 50)
+print('\033[0m')
